@@ -1,5 +1,5 @@
 class Cli < Formula
-  desc "A simple CLI tool for float63"
+  desc "A simple CLI tool for float16"
   homepage "https://github.com/float16-cloud/homebrew-float16"
   url "https://registry.npmjs.org/@float16/cli/-/cli-0.0.1-alpha.1.tgz"
   version "0.0.1-alpha.1"
