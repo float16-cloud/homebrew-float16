@@ -15,6 +15,6 @@ class Cli < Formula
 
   test do
     # add a meaningful test here, version isn't usually meaningful
-    assert_match version.to_s, shell_output("#{bin}/float63-cli --version")
+    assert_match version.to_s, shell_output("#{bin}/float16 --version")
   end
 end
