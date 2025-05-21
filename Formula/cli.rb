@@ -1,8 +1,8 @@
 class Cli < Formula
   desc "A simple CLI tool for float16"
   homepage "https://github.com/float16-cloud/homebrew-float16"
-  url "https://registry.npmjs.org/@float16/cli/-/cli-0.1.3.tgz"
-  version "0.1.3"
+  url "https://registry.npmjs.org/@float16/cli/-/cli-0.1.4.tgz"
+  version "0.1.4"
 
   depends_on "node"
   # uncomment if there is a native addon inside the dependency tree
